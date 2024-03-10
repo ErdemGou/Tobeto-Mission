@@ -1,0 +1,16 @@
+C:\Users\Erdem\Desktop\CSharpCourse\CSharpCourse\RecapDemo\bin\Debug\net7.0-windows\RecapDemo1.exe
+C:\Users\Erdem\Desktop\CSharpCourse\CSharpCourse\RecapDemo\bin\Debug\net7.0-windows\RecapDemo1.deps.json
+C:\Users\Erdem\Desktop\CSharpCourse\CSharpCourse\RecapDemo\bin\Debug\net7.0-windows\RecapDemo1.runtimeconfig.json
+C:\Users\Erdem\Desktop\CSharpCourse\CSharpCourse\RecapDemo\bin\Debug\net7.0-windows\RecapDemo1.dll
+C:\Users\Erdem\Desktop\CSharpCourse\CSharpCourse\RecapDemo\bin\Debug\net7.0-windows\RecapDemo1.pdb
+C:\Users\Erdem\Desktop\CSharpCourse\CSharpCourse\RecapDemo\obj\Debug\net7.0-windows\RecapDemo.Form1.resources
+C:\Users\Erdem\Desktop\CSharpCourse\CSharpCourse\RecapDemo\obj\Debug\net7.0-windows\RecapDemo1.csproj.GenerateResource.cache
+C:\Users\Erdem\Desktop\CSharpCourse\CSharpCourse\RecapDemo\obj\Debug\net7.0-windows\RecapDemo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erdem\Desktop\CSharpCourse\CSharpCourse\RecapDemo\obj\Debug\net7.0-windows\RecapDemo1.AssemblyInfoInputs.cache
+C:\Users\Erdem\Desktop\CSharpCourse\CSharpCourse\RecapDemo\obj\Debug\net7.0-windows\RecapDemo1.AssemblyInfo.cs
+C:\Users\Erdem\Desktop\CSharpCourse\CSharpCourse\RecapDemo\obj\Debug\net7.0-windows\RecapDemo1.csproj.CoreCompileInputs.cache
+C:\Users\Erdem\Desktop\CSharpCourse\CSharpCourse\RecapDemo\obj\Debug\net7.0-windows\RecapDemo1.dll
+C:\Users\Erdem\Desktop\CSharpCourse\CSharpCourse\RecapDemo\obj\Debug\net7.0-windows\refint\RecapDemo1.dll
+C:\Users\Erdem\Desktop\CSharpCourse\CSharpCourse\RecapDemo\obj\Debug\net7.0-windows\RecapDemo1.pdb
+C:\Users\Erdem\Desktop\CSharpCourse\CSharpCourse\RecapDemo\obj\Debug\net7.0-windows\RecapDemo1.genruntimeconfig.cache
+C:\Users\Erdem\Desktop\CSharpCourse\CSharpCourse\RecapDemo\obj\Debug\net7.0-windows\ref\RecapDemo1.dll

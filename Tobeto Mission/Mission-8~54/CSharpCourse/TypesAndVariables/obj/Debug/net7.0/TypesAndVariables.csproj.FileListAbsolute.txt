@@ -1,0 +1,14 @@
+C:\Users\Erdem\Desktop\CSharpCourse\CSharpCourse\TypesAndVariables\bin\Debug\net7.0\TypesAndVariables.exe
+C:\Users\Erdem\Desktop\CSharpCourse\CSharpCourse\TypesAndVariables\bin\Debug\net7.0\TypesAndVariables.deps.json
+C:\Users\Erdem\Desktop\CSharpCourse\CSharpCourse\TypesAndVariables\bin\Debug\net7.0\TypesAndVariables.runtimeconfig.json
+C:\Users\Erdem\Desktop\CSharpCourse\CSharpCourse\TypesAndVariables\bin\Debug\net7.0\TypesAndVariables.dll
+C:\Users\Erdem\Desktop\CSharpCourse\CSharpCourse\TypesAndVariables\bin\Debug\net7.0\TypesAndVariables.pdb
+C:\Users\Erdem\Desktop\CSharpCourse\CSharpCourse\TypesAndVariables\obj\Debug\net7.0\TypesAndVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erdem\Desktop\CSharpCourse\CSharpCourse\TypesAndVariables\obj\Debug\net7.0\TypesAndVariables.AssemblyInfoInputs.cache
+C:\Users\Erdem\Desktop\CSharpCourse\CSharpCourse\TypesAndVariables\obj\Debug\net7.0\TypesAndVariables.AssemblyInfo.cs
+C:\Users\Erdem\Desktop\CSharpCourse\CSharpCourse\TypesAndVariables\obj\Debug\net7.0\TypesAndVariables.csproj.CoreCompileInputs.cache
+C:\Users\Erdem\Desktop\CSharpCourse\CSharpCourse\TypesAndVariables\obj\Debug\net7.0\TypesAndVariables.dll
+C:\Users\Erdem\Desktop\CSharpCourse\CSharpCourse\TypesAndVariables\obj\Debug\net7.0\refint\TypesAndVariables.dll
+C:\Users\Erdem\Desktop\CSharpCourse\CSharpCourse\TypesAndVariables\obj\Debug\net7.0\TypesAndVariables.pdb
+C:\Users\Erdem\Desktop\CSharpCourse\CSharpCourse\TypesAndVariables\obj\Debug\net7.0\TypesAndVariables.genruntimeconfig.cache
+C:\Users\Erdem\Desktop\CSharpCourse\CSharpCourse\TypesAndVariables\obj\Debug\net7.0\ref\TypesAndVariables.dll
